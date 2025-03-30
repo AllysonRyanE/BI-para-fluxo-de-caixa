@@ -38,5 +38,13 @@ Conheça quem faz parte do nosso time
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/jorgelcff" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/80436467?v=4" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Jorge Freitas</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
