@@ -46,5 +46,13 @@ Conheça quem faz parte do nosso time
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/M4riaclaragomes" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/94190622?v=4" width="100px;" alt="Foto"/><br>
+        <sub>
+          <b>Maria Clara</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
